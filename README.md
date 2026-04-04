@@ -1,6 +1,6 @@
 ![3 Days of Swift](readme-images/3DaysOfSwiftHeader.png) ©️ 
 
-©️ Copyright of [3DaysOfSwift.com](https://www.3DaysOfSwift.com) | [The 3 Days Of Swift](https://www.3DaysOfSwift.com/3days) | [Interview Prep](https://www.3DaysOfSwift.com/interview-prep) 
+©️ Copyright of [3DaysOfSwift.com](https://www.3DaysOfSwift.com) | [The 3 Days Of Swift](https://www.3DaysOfSwift.com/3days)
 
 ## Common Language Features
 Courtesy of [3DaysOfSwift.com](https://www.3daysofswift.com)
@@ -83,12 +83,10 @@ We recommend studying the following Swift language features to become a Swift en
 
 ![3 Days Of Swift Logo](readme-images/3DaysOfSwiftFooter.png) 
 
-[Website](https://www.3DaysOfSwift.com) | [The 3 Days Of Swift](https://www.3DaysOfSwift.com/3days) | [Interview Prep](https://www.3DaysOfSwift.com/interview-prep)
+[Website](https://www.3DaysOfSwift.com) | [The 3 Days Of Swift](https://www.3DaysOfSwift.com/3days)
 
 © Copyright of [3DaysOfSwift.com](https://www.3DaysOfSwift.com). All rights reserved. 
 
 Welcome to our community of [3DaysOfSwift.com](https://www.3DaysOfSwift.com) developers!
-
-Don't forget - we've got [interview prep](https://www.3DaysOfSwift.com/interview-prep). Come back when you've got an [interview](https://www.3DaysOfSwift.com/interview-prep)!
 
 🧕🏻🙋🏽‍♂️👨🏿‍💼👩🏼‍💼👩🏻‍💻💁🏼‍♀️👨🏼‍💼🙋🏻‍♂️🙋🏻‍♀️👩🏼‍💻🙋🏿💁🏽‍♂️🙋🏽‍♀️🙋🏿‍♀️🧕🏾🙋🏼‍♂️
