@@ -1,8 +1,6 @@
-![3 Days of Swift](readme-images/3DaysOfSwiftHeader.png) ©️ 
+![3 Days of Swift](readme-images/3DaysOfSwiftHeader.png) ©️ copyright of [3DaysOfSwift.com](https://www.3DaysOfSwift.com)
 
-©️ Copyright of [3DaysOfSwift.com](https://www.3DaysOfSwift.com)
-
-## Common Language Features
+## Swift Language Reference Guide
 Courtesy of [3DaysOfSwift.com](https://www.3daysofswift.com)
 
 Created by 3DaysOfSwift.com.
@@ -81,9 +79,7 @@ We recommend studying the following Swift language features to become a Swift en
 --------------------------
 
 
-![3 Days Of Swift Logo](readme-images/3DaysOfSwiftFooter.png) 
-
-[Website](https://www.3DaysOfSwift.com)
+![3 Days Of Swift Logo](readme-images/3DaysOfSwiftFooter.png) [Website](https://www.3DaysOfSwift.com)
 
 © Copyright of [3DaysOfSwift.com](https://www.3DaysOfSwift.com). All rights reserved. 
 
