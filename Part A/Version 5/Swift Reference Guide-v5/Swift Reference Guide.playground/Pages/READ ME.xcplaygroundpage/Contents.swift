@@ -1,5 +1,6 @@
 //: ## ![3DaysOfSwift.com Logo](3DaysOfSwift-Icon-80.png) Swift.
-//: ## Common Language Features
+//: ## Swift Reference Guide
+//: ### of common language features
 //: Executable sample code organised by language features.
 //:
 //: ©️ copyright of [3DaysOfSwift.com](https://www.3DaysOfSwift.com) | [The 3 Days of Swift](https://www.3DaysOfSwift.com/3days)
