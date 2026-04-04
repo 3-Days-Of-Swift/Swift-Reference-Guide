@@ -1,5 +1,5 @@
 //: ## ![3DaysOfSwift.com Logo](3DaysOfSwift-Icon-80.png) Swift.
-//: ## Swift Reference Guide
+//: ## Swift Reference Guide - Part B
 //: ### of common language features
 //: Executable sample code organised by language feature.
 //:
@@ -17,38 +17,32 @@
 //:
 /*:
  */
-//: We also have the **official Apple book** in an Xcode playgrounds if you would like to read it - [The Swift Programming Language Book](https://www.3daysofswift.com/book). It was converted to markdown language by us - [The 3 Days of Swift](https://www.3DaysOfSwift.com/3days).
-/*:
- */
-//: -------------------
-//:
-//: ## Contents
-//:
-//: * *Chapter 1:*   [Hello World](Hello%20World)
-//: * *Chapter 2:*   [Variables](Variables)
-//: * *Chapter 3:*   [Foundational Types](Foundational%20Types)
-//: * *Chapter 4:*   [Swift Type Safety](Swift%20Type%20Safety)
-//: * *Chapter 5:*   [Type Conversion](Type%20Conversion)
-//: * *Chapter 6:*   [Strings](Strings)
-//: * *Chapter 7:*   [Unicode](Unicode)
-//: * *Chapter 8:*   [Characters](Characters)
-//: * *Chapter 9:*   [Collection Types](Collection%20Types)
-//: * *Chapter 10:*   [Subscript](Subscript)
-//: * *Chapter 11:*   [If Statement](If%20Statement)
-//: * *Chapter 12:*   [Optionals](Optionals)
-//: * *Chapter 13:*   [Switch Statement](Switch%20Statement)
-//: * *Chapter 14:*   [Loops](Loops)
-//: * *Chapter 15:*   [Functions](Functions)
-//: * *Chapter 16:*   [Closures](Closures)
-//: * *Chapter 17:*   [Enums](Enums)
-//: * *Chapter 18:*   [Structs](Structs)
-//: * *Chapter 19:*   [Classes](Classes)
+//: We also have the **official Apple book** in an Xcode playgrounds if you would like to read it - [The Swift Programming Language Book](https://www.3daysofswift.com/book). It was converted to markdown language by us - [3 Days of Swift](https://www.3DaysOfSwift.com/3days).
 /*:
  
  */
-//: * *Page 20:*   [Terms And Conditions](Terms%20And%20Conditions)
+//: -------------------
+//: ## Contents
 //:
-//: * *Page 21:*   [Coding Challenge](Coding%20Challenge) 🧑🏿‍💻👩🏼‍💻👨🏾‍💻 ⚔️
+//: * *Topic 1:*   [Access Control](Access%20Control)
+//: * *Topic 2:*   [Basic Operators](Basic%20Operators)
+//: * *Topic 3:*   [Extensions](Extensions)
+//: * *Topic 4:*   [Protocols](Protocols)
+//: * *Topic 5:*   [Generics](Generics)
+//: * *Topic 6:*   [Error Handling](Error%20Handling)
+//: * *Topic 7:*   [Nested Types](Nested%20Types)
+//: * *Topic 8:*   [Type Casting](Type%20Casting)
+//: * *Topic 9:*   [Inheritance](Inheritance)
+//: * *Topic 10:*   [Initialization](Initialization)
+//: * *Topic 11:*   [Class Deinitialization](Class%20Deinitialization)
+//: * *Topic 12:*   [Methods](Methods)
+//: * *Topic 13:*   [Properties](Properties)
+//: * *Topic 14:*   [Concurrency](Concurrency)
+//: * *Topic 15:*   [ARC Automatic Reference Counting](ARC%20Automatic%20Reference%20Counting)
+//: * *Topic 16:*   [Higher Order Functions](Higher%20Order%20Functions)
+//: * *Topic 17:*   [Capturing Values (Memory Management)](Capturing%20Values%20(Memory%20Management))
+//: * *Topic 18:*   [Memory Safety](Memory%20Safety)
+//: * *Topic 19:*   [Advanced Operators](Advanced%20Operators)
 //:
 /*:
  
@@ -61,7 +55,6 @@
 //:
 //: Students of all levels can read this guide. Keep the guide safe and easily accesible as you write code for your own projects.
 //:
-//: There is a [Coding Challenge](Coding%20Challenge) on the final page.
 //:
 /*:
  
