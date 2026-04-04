@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='README'/>
+        <page name='Math Lesson - Base 10'/>
+        <page name='Task 1 - Keypad'/>
+        <page name='Task 2 - Decimals'/>
+        <page name='Math Lesson - NaN'/>
+        <page name='Task 3 - Format Display'/>
+        <page name='Task 4 - Pressing Equals'/>
+        <page name='Task 5 - Operators'/>
+        <page name='Full Solution'/>
+    </pages>
+</playground>

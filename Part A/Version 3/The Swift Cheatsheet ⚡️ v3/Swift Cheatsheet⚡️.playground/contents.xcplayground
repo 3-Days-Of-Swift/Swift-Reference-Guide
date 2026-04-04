@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='READ ME'/>
+        <page name='Hello World'/>
+        <page name='Variables'/>
+        <page name='Foundational Types'/>
+        <page name='Swift Type Safety'/>
+        <page name='Type Conversion'/>
+        <page name='Strings'/>
+        <page name='Unicode'/>
+        <page name='Characters'/>
+        <page name='Collection Types'/>
+        <page name='Subscript'/>
+        <page name='If Statement'/>
+        <page name='Optionals'/>
+        <page name='Switch Statement'/>
+        <page name='Loops'/>
+        <page name='Functions'/>
+        <page name='Closures'/>
+        <page name='Enums'/>
+        <page name='Structs'/>
+        <page name='Classes'/>
+        <page name='Coding Challenge'/>
+        <page name='Empty Coding Area'/>
+        <page name='Terms And Conditions'/>
+    </pages>
+</playground>
